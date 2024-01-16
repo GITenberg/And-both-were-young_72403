@@ -1,5 +1,8 @@
 _repo: And-both-were-young_72403
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72403-h/images/cover.jpg
 creator:
   author:
     agent_name: L'Engle, Madeleine
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56669
     wikipedia: https://en.wikipedia.org/wiki/Madeleine_L%27Engle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72403#And-both-were-young
 gutenberg_issued: '2023-12-14'
 gutenberg_type: Text
 identifiers:
